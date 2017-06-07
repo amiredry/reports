@@ -1,0 +1,334 @@
+[
+  {
+    "account_id": 12,
+    "name": "Moody's Corporation"
+  },
+  {
+    "account_id": 13,
+    "name": "Public Technologies"
+  },
+  {
+    "account_id": 14,
+    "name": "African Press Organization"
+  },
+  {
+    "account_id": 16,
+    "name": "PR Newswire"
+  },
+  {
+    "account_id": 17,
+    "name": "American Petroleum Institute"
+  },
+  {
+    "account_id": 18,
+    "name": "Nation Media Group"
+  },
+  {
+    "account_id": 19,
+    "name": "Investing News Network"
+  },
+  {
+    "account_id": 20,
+    "name": "Beard Group"
+  },
+  {
+    "account_id": 22,
+    "name": "Agence France-PresseAFP"
+  },
+  {
+    "account_id": 23,
+    "name": "Pechal"
+  },
+  {
+    "account_id": 76,
+    "name": "ACN Newswire"
+  },
+  {
+    "account_id": 77,
+    "name": "JCN Network"
+  },
+  {
+    "account_id": 86,
+    "name": "Olga Bodnarchuk"
+  },
+  {
+    "account_id": 106,
+    "name": "TopSpin "
+  },
+  {
+    "account_id": 109,
+    "name": "David DeAngelo"
+  },
+  {
+    "account_id": 126,
+    "name": "Tetiana Kobryn"
+  },
+  {
+    "account_id": 167,
+    "name": "FinGlobe"
+  },
+  {
+    "account_id": 177,
+    "name": "Action Economics"
+  },
+  {
+    "account_id": 178,
+    "name": "Elliott Wave International"
+  },
+  {
+    "account_id": 179,
+    "name": "Varner Brothers"
+  },
+  {
+    "account_id": 248,
+    "name": "The Schork Report"
+  },
+  {
+    "account_id": 302,
+    "name": "Chris Orr Weather"
+  },
+  {
+    "account_id": 309,
+    "name": "Hydrocarbons Colombia"
+  },
+  {
+    "account_id": 310,
+    "name": "William Sposato"
+  },
+  {
+    "account_id": 319,
+    "name": "J. Ganes Consulting, LLC"
+  },
+  {
+    "account_id": 390,
+    "name": "FinGlobeDirect"
+  },
+  {
+    "account_id": 526,
+    "name": "Pro Farmer"
+  },
+  {
+    "account_id": 563,
+    "name": "first test"
+  },
+  {
+    "account_id": 617,
+    "name": "sss sss"
+  },
+  {
+    "account_id": 655,
+    "name": "ICIS"
+  },
+  {
+    "account_id": 734,
+    "name": "MDA Weather Services"
+  },
+  {
+    "account_id": 810,
+    "name": "Bill Burson"
+  },
+  {
+    "account_id": 847,
+    "name": "Informa Global Markets"
+  },
+  {
+    "account_id": 848,
+    "name": "Social Market Analytics"
+  },
+  {
+    "account_id": 1135,
+    "name": "Seery Futures"
+  },
+  {
+    "account_id": 1157,
+    "name": "Weather Derivatives"
+  },
+  {
+    "account_id": 1235,
+    "name": "Oxford Analytica"
+  },
+  {
+    "account_id": 1277,
+    "name": "Renaud Selmes"
+  },
+  {
+    "account_id": 1345,
+    "name": "Rajen Kapadia"
+  },
+  {
+    "account_id": 1386,
+    "name": "Avi Lavi"
+  },
+  {
+    "account_id": 1424,
+    "name": "The Capital Spectator"
+  },
+  {
+    "account_id": 1434,
+    "name": "XDATA"
+  },
+  {
+    "account_id": 1465,
+    "name": "Andriy Sapryka"
+  },
+  {
+    "account_id": 1735,
+    "name": "Isabella Mcfarland"
+  },
+  {
+    "account_id": 1737,
+    "name": "dipali kadam"
+  },
+  {
+    "account_id": 1738,
+    "name": "Isabella Mcknight"
+  },
+  {
+    "account_id": 1739,
+    "name": "ram kum"
+  },
+  {
+    "account_id": 1740,
+    "name": "arjit khan"
+  },
+  {
+    "account_id": 1741,
+    "name": "Norman Merritt"
+  },
+  {
+    "account_id": 1742,
+    "name": "Porter Knight"
+  },
+  {
+    "account_id": 1743,
+    "name": "ramesh kumarram101"
+  },
+  {
+    "account_id": 1745,
+    "name": "pre nair"
+  },
+  {
+    "account_id": 1746,
+    "name": "banny dainal"
+  },
+  {
+    "account_id": 1747,
+    "name": "jhon alex"
+  },
+  {
+    "account_id": 1748,
+    "name": "Mukya Kapoora"
+  },
+  {
+    "account_id": 1749,
+    "name": "akash rao"
+  },
+  {
+    "account_id": 1750,
+    "name": "prathamesh singh"
+  },
+  {
+    "account_id": 1751,
+    "name": "ganesh nair"
+  },
+  {
+    "account_id": 1956,
+    "name": "abhishek vinerkar"
+  },
+  {
+    "account_id": 2125,
+    "name": "Test Org"
+  },
+  {
+    "account_id": 2676,
+    "name": "PJK International"
+  },
+  {
+    "account_id": 2857,
+    "name": "Vindaloot"
+  },
+  {
+    "account_id": 3134,
+    "name": "Tech Beat"
+  },
+  {
+    "account_id": 3812,
+    "name": "Miz Meliz"
+  },
+  {
+    "account_id": 4075,
+    "name": "CapitalCube"
+  },
+  {
+    "account_id": 4319,
+    "name": "NewsUSA"
+  },
+  {
+    "account_id": 6462,
+    "name": "qbeats publisher"
+  },
+  {
+    "account_id": 6896,
+    "name": "Rockefeller Treasury Services, Inc."
+  },
+  {
+    "account_id": 7676,
+    "name": "Bill Parsons"
+  },
+  {
+    "account_id": 7729,
+    "name": "Football Diehards"
+  },
+  {
+    "account_id": 8135,
+    "name": "The Hightower Report"
+  },
+  {
+    "account_id": 8201,
+    "name": "Trends Research"
+  },
+  {
+    "account_id": 8401,
+    "name": "Sanjai Dhar"
+  },
+  {
+    "account_id": 8441,
+    "name": "T3 Live"
+  },
+  {
+    "account_id": 8612,
+    "name": "The Fly"
+  },
+  {
+    "account_id": 9283,
+    "name": "RotoWire Featured Content"
+  },
+  {
+    "account_id": 9284,
+    "name": "RotoWire"
+  },
+  {
+    "account_id": 9302,
+    "name": "Sgalaburda Test"
+  },
+  {
+    "account_id": 9417,
+    "name": "RTT News"
+  },
+  {
+    "account_id": 9436,
+    "name": "Olga Bodnarchuk"
+  },
+  {
+    "account_id": 9483,
+    "name": "MT Newswires"
+  },
+  {
+    "account_id": 10524,
+    "name": "Rareview Macro LLC"
+  },
+  {
+    "account_id": 10773,
+    "name": "TradersPOV"
+  }
+]
